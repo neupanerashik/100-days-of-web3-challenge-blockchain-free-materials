@@ -161,5 +161,3 @@ Days 91-100:
 - Day 98 [Community](https://x.com/KacperHernacki/status/1620061895331057666?s=20)
 - Day 99 [Node Provider](https://x.com/KacperHernacki/status/1622588757638541313?s=20)
 - Day 100 [Auditor](https://x.com/KacperHernacki/status/1622960607593918464?s=20)
-
-## Resources
